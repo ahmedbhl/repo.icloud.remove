@@ -1,0 +1,14 @@
+Package: repo.icloud.remove
+Name: RIR
+Version: 01.00
+Architecture: Ahmedbhl
+Description: Disable the find my iphone
+Maintainer: ahmedbhl
+Author: Ahmedbhl
+Section: RIR
+Depends: RIR
+Filename: debs/sh.sh
+Size: 375
+MD5sum: 360675E511F357F14ED9BB088FADAD50
+SHA1: CB7FFDA422729BDE436D01DF695A532848A6FF63
+SHA256: 74A55A1D823757F98CC4B70A02CE4A6F2A8D01704880E39262BADAD17B101FC0

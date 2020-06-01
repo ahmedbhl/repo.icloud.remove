@@ -1,0 +1,8 @@
+Origin: AhmedBhl Private Repo
+Label: RIR
+Suite: Beta
+Version: 01.00
+Codename: ios
+Architectures: ahmedbhl
+Components: main
+Description: Disable the find my iphone
